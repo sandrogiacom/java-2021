@@ -1,1 +1,4 @@
 /target/
+/jpackage/target/
+/records/target/
+/sealed-classes/target/

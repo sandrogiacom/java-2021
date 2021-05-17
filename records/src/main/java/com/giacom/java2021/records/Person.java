@@ -19,24 +19,12 @@ public final class Person {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public String getOfficialDocument() {
         return officialDocument;
     }
 
-    public void setOfficialDocument(String officialDocument) {
-        this.officialDocument = officialDocument;
-    }
-
     public LocalDate getDateBirth() {
         return dateBirth;
-    }
-
-    public void setDateBirth(LocalDate dateBirth) {
-        this.dateBirth = dateBirth;
     }
 
     @Override
